@@ -18,13 +18,12 @@ cp bash.bashrc /data/data/com.termux/files/usr/etc
 cd
 $HOME
 rm -rf .termux
-mkdir .termux
 cd
 cd mysetup
-cd theme
-cd dracula
-cp colors.properties ~/.termux
+cp .termux /$HOME
 cd
+echo "alias chcolor='$HOME/.termux/colors.sh'"
+echo "alias chfont='$HOME/.termux/fonts.sh'"
 clear
 echo
 figlet I'm Ready For You | lolcat
