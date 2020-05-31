@@ -6,7 +6,7 @@ cd
 cd mysetup
 cd theme
 cd dracula
-cp color.propertise ~/.termux
+cp colors.properties ~/.termux
 cd
 clear
 exit
