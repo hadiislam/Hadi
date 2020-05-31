@@ -1,4 +1,7 @@
 cd
+apt install -y figlet ruby
+gem install lolcat -y
+cd
 cd mysetup
 cd theme
 cd dracula
