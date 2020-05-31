@@ -16,10 +16,6 @@ cd mysetup
 cd asset
 cp bash.bashrc /data/data/com.termux/files/usr/etc
 cd
-apt install figlet
-apt install ruby
-gem install lolcat
-cd
 $HOME
 rm -rf .termux
 mkdir .termux
