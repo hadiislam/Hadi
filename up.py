@@ -15,5 +15,8 @@ os.system("mkdir "+system.conf_dir+"/CAT")
           os.system("cp -r core/CAT "+system.bin)
           os.system("chmod +x "+system.bin+"/CAT")
           os.system("cd .. && rm -rf CAT")
-        logo.exit()
-break
+        
+
+logo.ins_sc()
+            tmp=input("\033[m[\033[32m*\033[m]\033[32m Choose :\033[m")
+            break
