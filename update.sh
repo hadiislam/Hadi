@@ -3,6 +3,6 @@ rm -rf h
 cd
 git clone https://github.com/hadiislam/h
 cd
-cd mysetup
+cd h
 chmod +x *
 cd
