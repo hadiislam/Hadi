@@ -5,4 +5,4 @@ git clone https://github.com/hadiislam/h
 cd
 cd mysetup
 chmod +x *
-ls
+cd
