@@ -7,11 +7,11 @@ read -p"[Category]: " varcat
 read -p"[URL]: " varurl
 
 echo " 
-        "'$name'" : {
-         "name" : "'$name'",
-		 "package_name" : "'$name'",
-		 "category" : ["'$cat'"],
-		 "url" : "$url",
+        "'$varname'" : {
+         "name" : "'$varname'",
+		 "package_name" : "'$varname'",
+		 "category" : ["'$varcat'"],
+		 "url" : "$varurl",
 		 "dependency" : ["git"]
 		 }, 
 "
