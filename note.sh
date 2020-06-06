@@ -14,4 +14,4 @@ echo "
 		 "url" : "$url",
 		 "dependency" : ["git"]
 		 }, 
-" > note.txt
+"
