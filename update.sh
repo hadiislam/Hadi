@@ -1,8 +1,7 @@
 cd
-rm -rf h
+rm -rf Hadi
 cd
-git clone https://github.com/hadiislam/h
+git clone https://github.com/hadiislam/Hadi
 cd
-cd h
+cd Hadi
 chmod +x *
-cd
