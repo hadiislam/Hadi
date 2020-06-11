@@ -64,7 +64,7 @@ cat cdata.txt >> /data/data/com.termux/files/home/Hadi/datacat.txt
 cd
 cd Hadi
 rm -rf cdata.txt
-cp/data/data/com.termux/files/home/Hadi/datacat.txt /storage
+cp datacat.txt /sdcard
 cd
 cd Hadi
 chmod +x *
