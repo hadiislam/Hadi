@@ -69,4 +69,4 @@ cp datacat.txt /sdcard
 cd
 cd Hadi
 chmod +x *
-sh dcat
+sh dcat.sh
