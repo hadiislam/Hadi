@@ -18,7 +18,7 @@ echo ' dMP     dMMMMMP   dMP     '
 echo 'dMP.aMP dMP dMP   dMP      '
 echo 'VMMMP" dMP dMP   dMP       '
 
-=============================================
+echo '============================================='
 echo
 echo
 echo $r
@@ -61,7 +61,6 @@ echo  '
   
   
 cat cdata.txt >> /data/data/com.termux/files/home/Hadi/datacat.txt
-termux-setup-storage
 
 cp/data/data/com.termux/files/home/Hadi/datacat.txt /storage
 cd
