@@ -17,15 +17,16 @@ echo '  dMP"VMP dMP"dMP   dMP    '
 echo ' dMP     dMMMMMP   dMP     '
 echo 'dMP.aMP dMP dMP   dMP      '
 echo 'VMMMP" dMP dMP   dMP       '
+echo
 
-echo '============================================='
+echo '==========================='
 echo
 echo
-echo $r
-read -p"[ Package Name ] : " name
 echo
-echo $me"Category Name:"
-echo $r
+read -p" [ Package Name ] : " name
+echo
+echo " [ * ] Category Name:"
+echo 
 echo 'ig for Information Gathering'
 echo 'vs for Vulnerability Scanner'
 echo 'et for Exploitation Tools'
