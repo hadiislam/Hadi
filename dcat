@@ -61,7 +61,9 @@ echo  '
   
   
 cat cdata.txt >> /data/data/com.termux/files/home/Hadi/datacat.txt
-
+cd
+cd Hadi
+rm -rf cdata.txt
 cp/data/data/com.termux/files/home/Hadi/datacat.txt /storage
 cd
 cd Hadi
