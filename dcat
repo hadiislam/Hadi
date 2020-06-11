@@ -10,8 +10,8 @@ ku='\033[33;1m' #kuning
 r='\033[m'
 clear
 
-
-
+echo
+echo
 echo '   .aMMMb  .aMMMb dMMMMMMP '
 echo '  dMP"VMP dMP"dMP   dMP    '
 echo ' dMP     dMMMMMP   dMP     '
